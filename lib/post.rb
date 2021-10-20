@@ -1,5 +1,5 @@
 require 'pry'
-class Post 
-    attr_accessor :title, :author 
-end 
 
+class Post
+    attr_accessor :title, :author
+end 
